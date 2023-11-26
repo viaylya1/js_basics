@@ -1,0 +1,16 @@
+{
+  "name": "js_basics",
+  "version": "1.0.0",
+  "description": "JS practice",
+  "main": "data_types.js",
+  "scripts": {
+    "test": "echo \"Error: no tests\" && exit 1",
+    "start": "node data_types"
+  },
+  "author": "Viktoriia Bryzhak",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.10.0"
+  }
+}
